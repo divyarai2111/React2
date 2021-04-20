@@ -1,0 +1,57 @@
+{
+  "news": [
+    {
+      "newsTitle": "Brazil regulator fines Apple nearly $2 million for not bundling charger with iPhone 12 - HT Tech",
+      "newsDesc": "The consumer protection agency Procon-SP said Apple was engaging in misleading advertising, selling a device without the charger and unfair terms.",
+      "newsUrl": "https://tech.hindustantimes.com/tech/news/brazil-regulator-fines-apple-nearly-2-million-for-not-bundling-charger-with-iphone-12-71616299389169.html",
+      "id": 1
+    },
+    {
+      "newsTitle": "Coronavirus India Live Updates: India records over 43,000 new Covid cases, highest since November - The Indian Express",
+      "newsDesc": "Coronavirus India Live Updates, Lockdown Latest News: India on Friday registered 40,953 new cases of coronavirus infections, the highest since November 28. Maharashtra recorded second successive day of 25,000-plus cases. Madhya Pradesh and Tamil Nadu also rep…",
+      "newsUrl": "https://indianexpress.com/article/india/coronavirus-india-live-updates-maharashtra-punjab-cases-deaths-second-wave-7236627/",
+      "id": 2
+    },
+    {
+      "newsTitle": "India has world's fourth strongest military, says Military Direct's study - Hindustan Times",
+      "newsDesc": "China has the strongest military in the world, scoring 82 out of 100 points in the index, it noted.",
+      "newsUrl": "https://www.hindustantimes.com/india-news/india-has-world-s-fourth-strongest-military-says-military-direct-s-study-101616304773460.html",
+      "id": 3
+    },
+    {
+      "newsTitle": "Maharashtra Alliance Meet Tomorrow Amid Corruption Allegations: 10 Facts - NDTV",
+      "newsDesc": "The final decision on Maharashtra Home Minister Anil Deshmukh  battling corruption allegations by former Mumbai police chief Param Bir Singh -- lies with Chief Minister Uddhav Thackeray, ally Nationalist Congress Party chief Sharad Pawar said today. He, howev…",
+      "newsUrl": "https://www.ndtv.com/india-news/sharad-pawar-on-ex-mumbai-top-cops-letter-against-maharashtra-minister-says-chief-minister-has-to-take-action-2395659",
+      "imgUrl": "https://c.ndtvimg.com/2021-03/5vcqhn2_param-bir-singh-and-anil-deshmukh-pti_625x300_20_March_21.jpg",
+      "id": 4
+    },
+    {
+      "newsTitle": "Large Asteroid To Zip Past Earth At 124,000 kmph - NDTV",
+      "newsDesc": "The largest asteroid to pass by Earth this year will swing closest on Sunday, giving astronomers a rare chance for a good look at a space rock that formed at the dawn of our solar system.",
+      "newsUrl": "https://www.ndtv.com/world-news/large-asteroid-of-2021-called-2001-fo32-to-make-closest-approach-to-earth-2395572",
+      "imgUrl": "https://c.ndtvimg.com/2021-03/pvpjd3b_nasa-photo-of-largest-asteroid-of-2021-to-pass-by-earth2001-fo32-_625x300_21_March_21.jpg",
+      "id": 5
+    },
+    {
+      "newsTitle": "'I am a big donkey': Mamata on Adhikaris switching loyalties - Times of India",
+      "newsDesc": "Assembly Elections News: NEW DELHI: With several members of the influential Adhikari family switching loyalties to the BJP, West Bengal chief minister Mamata Banerjee on Sunda.",
+      "newsUrl": "https://timesofindia.indiatimes.com/elections/assembly-elections/west-bengal/i-am-a-big-donkey-mamata-on-adhikaris-switching-loyalties/articleshow/81617048.cms",
+      "imgUrl": "https://static.toiimg.com/thumb/msid-81617034,width-1070,height-580,imgsize-152042,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "id": 6
+    },
+    {
+      "newsTitle": "Maharashtra Sees Biggest Single-Day Jump With 30,535 Fresh Covid Cases - NDTV",
+      "newsDesc": "Maharashtra on Sunday reported 30,535 fresh COVID-19 cases, the highest rise in a single day, the state health department said.",
+      "newsUrl": "https://www.ndtv.com/india-news/maharashtra-coronavirus-cases-maharashtra-sees-biggest-single-day-jump-with-30-535-fresh-covid-19-cases-2396004",
+      "imgUrl": "https://c.ndtvimg.com/2020-10/16haqpf8_mumbai-generic650_625x300_12_October_20.jpg",
+      "id": 7
+    },
+    {
+      "newsTitle": "Aahaana Kumra is criticised for her dark-face makeup as she pays tribute to Jhulan Goswami, cricketer says 'good job' - Hindustan Times",
+      "newsDesc": "Even as many criticised Aahana Kumra for her dark-face make-up in her latest photoshoot, cricketer Jhulan Goswami said 'good job' to the tribute from Aahana.",
+      "newsUrl": "https://www.hindustantimes.com/entertainment/bollywood/aahaana-kumra-is-criticised-for-her-dark-face-makeup-as-she-pays-tribute-to-jhulan-goswami-with-a-photoshoot-cricketer-says-good-job-101616374764403.html",
+      "imgUrl": "https://images.hindustantimes.com/img/2021/03/22/1600x900/Screenshot_2021-03-22_at_7.31.46_AM_1616378515306_1616378521771.png",
+      "id": 8
+    }
+  ]
+}
